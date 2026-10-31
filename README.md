@@ -1,3 +1,4 @@
+# Deep Learning — Atelier 2
 ## Dataset and environment
 
 MNIST contains 60,000 training images and 10,000 test images
